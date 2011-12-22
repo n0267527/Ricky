@@ -1,10 +1,3 @@
-// Ricky.cpp : Defines the entry point for the application.
-// Author:
-// ID:
-// Version:
-// Date: 22 Dec 2011
-// Description:
-
 #include "stdafx.h"
 #include "gwin.h"
 
