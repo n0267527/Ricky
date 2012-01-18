@@ -1,1 +1,6 @@
 *.xcodeproj
+*.suo
+*.ncb
+*.vcproj*
+Debug/
+Release/
